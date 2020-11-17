@@ -21,7 +21,7 @@
 * Heading: This script assigns row, column and game object to each sprite in the 
 * multidimensional array
 * Author: Joy Ajayi
-* Online Repository: https://github.com/AjayiJoy/U
+* Online Repository: https://github.com/AjayiJoy/Ultra-class-Match-3-
 * File format: Assembly-CSharp (.cs)
  */
 using UnityEngine;

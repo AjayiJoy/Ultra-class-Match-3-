@@ -20,7 +20,7 @@
 * 
 * Heading: This script is written for the button and used to load the scenes
 * Author: Joy Ajayi
-* Online Repository: https://github.com/AjayiJoy/U
+* Online Repository: https://github.com/AjayiJoy/Ultra-class-Match-3-
 * File format: Assembly-CSharp (.cs)
  */
 using UnityEngine;

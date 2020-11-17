@@ -21,7 +21,7 @@
 * Heading: This script is written to the game board which instantiates the array
 * of gameobjects for selecting, swapping, deleting and replacing
 * Author: Joy Ajayi
-* Online Repository: https://github.com/AjayiJoy/U
+* Online Repository: https://github.com/AjayiJoy/Ultra-class-Match-3-
 * File format: Assembly-CSharp (.cs)
  */
 

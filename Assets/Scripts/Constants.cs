@@ -21,7 +21,7 @@
 * Heading: This script is for each of the constants that are used in the game 
 * production
 * Author: Joy Ajayi
-* Online Repository: https://github.com/AjayiJoy/U
+* Online Repository: https://github.com/AjayiJoy/Ultra-class-Match-3-
 * File format: Assembly-CSharp (.cs)
  */
 using UnityEngine;
